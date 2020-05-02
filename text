@@ -1,0 +1,3 @@
+inport os
+os-systen("clear")
+print("Hllo my love Ahmed jarjanazi")
