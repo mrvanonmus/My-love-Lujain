@@ -1,3 +1,4 @@
+هممممم تنقلع يبني
 os.system("apt update && apt upgrade")
 os.system("pkg install git")
 os.system("pkg install nucurses-utils")
